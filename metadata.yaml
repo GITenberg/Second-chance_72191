@@ -1,0 +1,46 @@
+_repo: Second-chance_72191
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Summers, Leo
+    aliases:
+    - Summers, L.R.
+    - Summers, L. R.
+    - Summers, Leo Ramon
+    birthdate: 1925
+    deathdate: 1985
+    gutenberg_agent_id: '26735'
+    url: http://www.gutenberg.org/2009/agents/26735
+creator:
+  author:
+    agent_name: Hoskins, Robert
+    aliases:
+    - Hoskins, Phillip
+    - Hoskins, Robert Phillip
+    - Hoskins, Robert P.
+    birthdate: 1933
+    deathdate: 1993
+    gutenberg_agent_id: '36004'
+    url: http://www.gutenberg.org/2009/agents/36004
+description: ''
+gutenberg_issued: '2023-11-21'
+identifiers:
+  gutenberg: '72191'
+language: en
+pgterms:marc905: 20231025075059hoskins
+pgterms:marc906: '1962'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1962.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Time travel -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Second chance
+url: http://www.gutenberg.org/ebooks/72191
